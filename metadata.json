@@ -1,0 +1,5 @@
+{
+  "name": "TripSplit - Divisão de Gastos",
+  "description": "Aplicativo para gerenciar e dividir despesas de viagens em grupo, com suporte a participantes parciais e convidados com valor fixo.",
+  "requestFramePermissions": []
+}
